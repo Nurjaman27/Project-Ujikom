@@ -1,0 +1,14 @@
+#kotak{
+    background-color: transparant;
+	width: 400px;
+	height: auto;
+	margin: auto;
+	margin-top: 34px;
+	padding: 4px;
+	border-radius: 5px 5px;
+	border:white solid 2px;
+}
+body{
+	background-size: 100%;
+     background-image: url('bg2.jpg');
+}

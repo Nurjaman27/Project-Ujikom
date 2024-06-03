@@ -1,0 +1,25 @@
+
+#head {		
+			background-image: url('../home/9.jpg');
+			background-size: 100%;
+			width:100%;
+			height:200px;
+			position:absolute;
+			
+			
+}
+#side {
+		background-color: #6495ED ;
+		width:20%;
+		height:800px;
+		margin-top:210px;
+		position:absolute;
+		}
+#conten {
+		background-color: #6495ED ;
+		width:79%;
+		height:800px;
+		margin-top:210px;
+		position:absolute;
+		margin-left:20.5%;
+		}
